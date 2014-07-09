@@ -1,0 +1,3 @@
+#Tom D'Alleva - program that reverse engineers arp.c and ipconfig.com 
+to find all current IP addresses on a local LAN. It might have to also ping the broadcast address to 
+insure arp tables are current.
