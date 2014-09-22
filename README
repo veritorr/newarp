@@ -1,3 +1,10 @@
-#Tom D'Alleva - program that reverse engineers arp.c and ipconfig.com 
-to find all current IP addresses on a local LAN. It might have to also ping the broadcast address to 
-insure arp tables are current.
+#Tom D'Alleva - This is a new project to reverse engineer arp.c and ipconfig.com 
+to make it easier and clearer to find all current IP addresses on a local LAN and give status. 
+
+It might have to ping the broadcast address toinsure arp tables are current. The user interface will be tabular in nature 
+and give some status indicators.
+
+This project has not yet begun. It will probably use C# or Visual C++ under windows and C++ under Linux.
+This is a side project that I don't think I'll get to until winter of 2015.
+
+The code in this repo is just reference source code.
