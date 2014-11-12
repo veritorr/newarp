@@ -1,10 +1,9 @@
-#Tom D'Alleva - This is a new project to reverse engineer arp.c and ipconfig.com 
-to make it easier and clearer to find all current IP addresses on a local LAN and give status. 
+#Tom D'Alleva - This is a new project in the planning stages to combine some of the functionality of arp and ipconfig 
+to create a user-friendly graphical representation of all current users, IP addresses and their statuses on a LAN. 
 
-It might have to ping the broadcast address toinsure arp tables are current. The user interface will be tabular in nature 
+It will ping the broadcast address to insure arp tables are current. The user interface will be tabular in nature 
 and give some status indicators.
 
-This project has not yet begun. It will probably use C# or Visual C++ under windows and C++ under Linux.
-This is a side project that I don't think I'll get to until winter of 2015.
+This is a side project that I don't think I'll get to until mid 2015.  It will be released to the public.
 
-The code in this repo is just reference source code.
+The code in this repo is just stored reference source code but not sure it will be used for the actual project.
